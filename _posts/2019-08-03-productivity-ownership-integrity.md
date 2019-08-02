@@ -20,7 +20,7 @@ Tháng 6 bắt đầu với khá nhiều thay đổi về nhân sự team. Nhân
 
 Một lý do khác khiến các bạn không đưa ra được kết quả công việc đó là do cách đặt mục tiêu công việc chưa đúng. Để cải thiện việc này, chúng ta có thể áp dụng mô hình **SMART** khi đặt mục tiêu công việc của mình.
 
-![](/Users/713uk13m/Desktop/smart.jpeg)
+![https://i.postimg.cc/4yV30Kc9/smart.jpg](https://i.postimg.cc/4yV30Kc9/smart.jpg)
 
 ### Ownership — Chủ động với công việc mình phụ trách
 
