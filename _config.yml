@@ -153,7 +153,7 @@ title-separator: "-"
 timezone: "Asia/Ho_Chi_Minh"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:year-:month-:day/:title/
 paginate: 5
 
 kramdown:
