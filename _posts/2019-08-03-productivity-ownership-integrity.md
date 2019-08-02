@@ -4,7 +4,7 @@ title: Productivity — Ownership — Integrity
 image: /img/hello_world.jpeg
 ---
 
-Tháng 6 bắt đầu với khá nhiều thay đổi về nhân sự team. Nhân dịp này, chúng ta cùng điểm lại những vấn đề thường gặp nhất trong công việc để cùng cải thiện và nâng cao kĩ năng và tinh thần làm việc của cả team.
+Giữa năm bắt đầu với khá nhiều thay đổi về nhân sự team. Nhân dịp này, điểm lại những vấn đề thường gặp nhất trong công việc để cùng cải thiện và nâng cao kĩ năng và tinh thần làm việc của cả team.
 
 03 trong số rất nhiều các vấn đề thường gặp nhất đối với một team với những người trẻ tuổi, mới bước vào môi trường làm việc, đó là:
 
@@ -16,7 +16,7 @@ Tháng 6 bắt đầu với khá nhiều thay đổi về nhân sự team. Nhân
 
 ### Productivity — Tập trung vào việc tạo ra thành quả
 
-Điều mà phần lớn các bạn mới đi làm đều mắc phải rất nghiêm trọng là việc không tạo ra thành quả (deliverables) cụ thể. Việc các bạn dành quá nhiều thời gian vào tìm hiểu, nghiên cứu và sợ sai khiến cho việc tạo ra kết quả bị chậm hoặc không có thành quả cụ thể. Các deliverables mà các bạn tạo ra là những thứ giá trị nhất đối với khách hàng, sản phẩm, không có nó, mọi việc làm đều vô nghĩa. Vì vậy, mỗi thành viên nên luôn hỏi mình “***Thành quả mình cần tạo ra là gì?***” và tập trung để tạo ra kết quả này bằng mọi khả năng mình có. “***Move fast and break things***” chính là tinh thần mà các bạn cần. Có thể kết quả lần 1, lần 2 còn thiếu xót nhưng nếu các bạn càng nhanh chóng tạo ra kết quả, càng sớm nhận ra điểm mình cần cải thiện thì kết quả sẽ càng nhanh tốt dần theo thời gian.
+Điều mà phần lớn các bạn mới đi làm đều mắc phải rất nghiêm trọng là việc không tạo ra **thành quả** (***deliverables***) cụ thể. Việc các bạn dành quá nhiều thời gian vào tìm hiểu, nghiên cứu và sợ sai khiến cho việc tạo ra kết quả bị chậm hoặc không có thành quả cụ thể. Các ***deliverables*** mà các bạn tạo ra là những thứ giá trị nhất đối với khách hàng, sản phẩm, không có nó, mọi việc làm đều vô nghĩa. Vì vậy, mỗi thành viên nên luôn hỏi mình “***Thành quả mình cần tạo ra là gì?***” và tập trung để tạo ra kết quả này bằng mọi khả năng mình có. “***Move fast and break things***” chính là tinh thần mà các bạn cần. Có thể kết quả lần 1, lần 2 còn thiếu xót nhưng nếu các bạn càng nhanh chóng tạo ra kết quả, càng sớm nhận ra điểm mình cần cải thiện thì kết quả sẽ càng nhanh tốt dần theo thời gian.
 
 Một lý do khác khiến các bạn không đưa ra được kết quả công việc đó là do cách đặt mục tiêu công việc chưa đúng. Để cải thiện việc này, chúng ta có thể áp dụng mô hình **SMART** khi đặt mục tiêu công việc của mình.
 
