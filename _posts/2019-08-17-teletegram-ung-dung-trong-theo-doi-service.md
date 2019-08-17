@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Telegram Bot - Ứng dụng trong việc theo dõi tính ổn định của sản phẩm
+description: Triển khai sendMessage sử dụng Telegram, ứng dụng nhắn tin và cảnh báo, theo dõi sản phẩm
 image: /img/posts/2019-08-17-telegram.jpg
 ---
 
@@ -364,6 +365,10 @@ Rồi, bây h các ông đã sở hữu trong tay con bot mạnh mẽ rồi. Vi�
 Tôi đã build nhanh packages [ở đây](https://packagist.org/packages/tungvandev/scripts-telegram-bot-send-message), các ông có thể install nhanh chóng với cú pháp require
 
 > composer require tungvandev/scripts-telegram-bot-send-message
+
+Còn đây là full source không che
+
+> https://github.com/tungvandev/scripts-telegram-bot-send-message
 
 Còn logic nghiệp vụ bắt lỗi ở đâu, đó tùy nghiệp vụ với quan điểm từng người, tôi không chỉ được.
 
