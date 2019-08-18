@@ -82,9 +82,9 @@ search thử con bot trên telegram và start chat với nó phát
 
 Do triển khai dạng composer nên việc đầu tiên là init composer, sau đó đăng ký sử dụng 2 packages
 
-1. monolog/monolog: dùng để ghi log sự kiện
-2. php-curl-class/php-curl-class: đây là 1 wrapper curl rất tiện dụng
-3. Endpoint để gọi: https://api.telegram.org/bot<token>/method
+1. **monolog/monolog**: dùng để ghi log sự kiện
+2. **php-curl-class/php-curl-class**: đây là 1 wrapper curl rất tiện dụng
+3. Endpoint để gọi: https://api.telegram.org/bot{token}/method
 
 file composer ông A xây dựng có dạng sau
 
@@ -175,7 +175,6 @@ class Telegram
     private $request; // Alias cURL
     private $logger; // Logger
     private $config; // Mảng cấu hình thông tin BOT
-    private $result;
 
     /**
      * Telegram constructor.
@@ -190,13 +189,7 @@ class Telegram
         $this->logger = new Logger('telegram');
         $this->logger->pushHandler(new StreamHandler(__DIR__ . '/../logs', Logger::INFO));
     }
-		/**
-     * @return mixed
-     */
-    public function getResult()
-    {
-        return $this->result;
-    }
+
     /**
      * @param array $config
      *
@@ -377,4 +370,8 @@ Nếu các ông cần trợ giúp, liên hệ sau sẽ có ích với các ông
 | Name        | Email                | Skype            | Facebook      |
 | ----------- | -------------------- | ---------------- | ------------- |
 | Hung Nguyen | dev@nguyenanhung.com | nguyenanhung5891 | @nguyenanhung |
+
+
+
+
 
