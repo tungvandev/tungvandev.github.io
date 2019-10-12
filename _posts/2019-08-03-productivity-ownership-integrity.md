@@ -10,9 +10,23 @@ Giữa năm bắt đầu với khá nhiều thay đổi về nhân sự team. Nh
 
 1. Thiếu sự chủ động trong công việc
 2. Không tạo ra thành quả cụ thể (hoặc quá mất thời gian để tạo ra kết quả)
-3. Kĩ năng xoay sở, tương tác, giao tiếp trong công việc và trong kinh doanh bị thiếu sót và không thấy có sự cải thiện sau nhiều lần góp ý
+3. Kĩ năng xoay sở, tương tác, giao tiếp trong công việc và trong phối hợp với đồng nghiệp bị thiếu sót và không thấy có sự cải thiện sau nhiều lần góp ý
 
 Để đi nhanh và đi xa, chúng ta cần xác định cách thức, tinh thần và mục tiêu công việc hợp lý nhất để giúp cả team có cùng một lối tư duy và hành động. Team cần đặc biệt tập trung cải thiện 3 yếu tố quan trọng giúp hình thành sự xuất sắc trong công việc như sau: **Productivity** — **Ownership** — **Integrity**
+
+### Khách hàng là gì
+
+Trước khi đi sâu vào các khái niệm. Chúng ta cần hiểu rõ về khái niệm khách hàng. Khách hàng ở đây không chỉ là khách hàng ngoài cty. Bất cứ ai làm việc trực tiếp với chúng ta đều là 1 khách hàng, ví dụ:
+
+Triển khai 1 dịch vụ A với đối tác VinaPhone, trong đó
+
+- VinaPhone là khách hàng của cty để triển khai dịch vụ A
+- Đội PM gửi yêu cầu sang đội DEV để triển khai dịch vụ -> Đội PM là khách hàng của đội DEV. Điều cần để 2 bên phối hợp là đội DEV triển khai và giao sản phẩm của PM.
+- Coder cần Design thiết kế 1 giao diện -> Coder là khách hàng của Design. Sản phẩm design cần giao là 1 file/html đã được thiết kế.
+- Design cần BA / PM trình bày ý tưởng -> Design là khách hàng của BA và PM. Sản phẩm ý tưởng cần note rõ cho design.
+- 1 sản phẩm cần test -> PM là khách hàng của tester. Bug, bug là sản phẩm tester ném vào mặt coder chúng ta =))
+
+**Vì vậy, Khách hàng, là những người làm việc với chúng ta, trông chờ vào chúng ta**
 
 ### Productivity — Tập trung vào việc tạo ra thành quả
 
@@ -38,4 +52,4 @@ Khi một thành viên được giao một nhiệm vụ có nghĩa là cả team
 2. **Thông báo kịp thời** khi có sự thay đổi về mục tiêu, kết quả, thời gian hoàn thành 
 3. **Giao tiếp rành mạch**, rõ ràng, tránh hiểu nhầm, đặt sai kì vọng
 
-Mong rằng, bằng việc tập trung xây dựng và cải thiện những yếu tố này trước hết sẽ giúp team  hiện tại hoạt động năng xuất và hiệu quả hơn, sau đó là có thể tìm được những người có phẩm chất và năng lục phù hợp để cùng đồng hành trong chặng đường sắp tới.
+Mong rằng, bằng việc tập trung xây dựng và cải thiện những yếu tố này trước hết sẽ giúp team hiện tại hoạt động năng xuất và hiệu quả hơn, sau đó là có thể tìm được những người có phẩm chất và năng lục phù hợp để cùng đồng hành trong chặng đường sắp tới.
